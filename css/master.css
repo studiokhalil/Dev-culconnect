@@ -1,0 +1,10 @@
+.round{
+border-radius: 100px !important;
+}
+ .textwrite{
+   color:#FFF;
+ }
+#cardbody{
+  border-bottom: 2px solid #000 !important;
+
+}
