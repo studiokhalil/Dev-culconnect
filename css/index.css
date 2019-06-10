@@ -1,0 +1,17 @@
+#cardimage{
+background-image:url("../images/background.jpg") !important;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height: 600px;
+}
+
+#getcolor{
+  background-color: #ff135b;
+  color: #fff;
+}
+
+#logcolor{
+  background-color: #ccc;
+  color: #000;
+}
