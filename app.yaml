@@ -7,9 +7,15 @@ handlers:
   static_files: \1
   upload: .+\.(gif|png|jpg)$
   application_readable: true
+  
+- url: /css
+  static_dir: css
 
+- url: /bootstrap
+  static_dir: bootstrap
 # Serve php scripts.
 - url: /(.+\.php)$
   script: \1
+
 - url: /.*
   script: index.php

@@ -8,3 +8,9 @@ border-radius: 100px !important;
   border-bottom: 2px solid #000 !important;
 
 }
+
+body {
+  font-family: Kurale;
+  font-style: normal;
+  font-weight: normal;
+}
