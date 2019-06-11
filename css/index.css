@@ -3,7 +3,7 @@ background-image:url("../images/background.jpg") !important;
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
-height: 600px;
+height: 100%;
 }
 
 #getcolor{
